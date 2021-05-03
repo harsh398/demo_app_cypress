@@ -23,7 +23,7 @@ Harsharan Deep
 
 1. To Run Jenkins solution ( Node and Git should be installed and Path be should  be given properly) on your Jenkins Environment
 2. For this Project i am using Windows system that is why i used Batch Commands 
-3. Jenkins File inclued three :-
+3. Jenkins File inclued three stpes :-
    a. Cloning the Repo
    b. Intalling all the Dependencies using npm 
    c. Starting the Test 
