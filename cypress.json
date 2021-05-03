@@ -3,11 +3,12 @@
     "chromeWebSecurity": false,
     "reporter": "mochawesome",
     "reporterOptions": {
-        "reportDir": "cypress/results",
+        "reportDir": "cypress/reports/mochawesome-report",
         "overwrite": false,
         "html": false,
-        "json": true
-      },
+        "json": true,
+        "timestamp": "mmddyyyy_HHMMss"
+     },
       "viewportWidth": 1280,
       "viewportHeight": 1000
 }
