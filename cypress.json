@@ -1,7 +1,7 @@
 {
     "watchForFileChanges":false,
     "chromeWebSecurity": false,
-    "reporter": "cypress-multi-reporters",
+    "reporter": "mochawesome",
     "reporterOptions": {
         "reporterEnabled": "mochawesome",
         "mochawesomeReporterOptions": {
