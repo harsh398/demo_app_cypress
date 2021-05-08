@@ -14,6 +14,7 @@
     "cypress-xpath": "^1.6.2"
   },
   "dependencies": {
+    "cypress-multi-reporters": "1.5.0",
     "cypress-real-events": "^1.4.0",
     "fs": "*",
     "mochawesome": "^6.2.2",
